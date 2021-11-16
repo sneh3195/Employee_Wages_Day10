@@ -1,0 +1,2 @@
+module Emplyee_Wages {
+}
